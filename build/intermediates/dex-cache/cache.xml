@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_43b2436b49becadaf5952213d4eaacf5d2962c9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_72ecca1790b352936642cb7cc8940fae9acf8ae8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_ad736f66884aaf95b609f81ed778b084afa43a5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_bee9905bf4c1bf8bb28756e65348731739546093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_225c214a48d237b3b8494d1db96de2c7cbcb5fc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_d66309f73c67856ac128d84c5b8f933051d3d50e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_29e6d67dc05414e2d105a38e8751ff832f64b0b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_08939f1f25bbf7e5bad68bb2a996217e645fe7a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ed5e94fd846b8ef93deb1b1938fd7572cdb2f64f">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\pre-dexed\debug\instant-run_5962519e82599ecd27e782b9102655c164f65953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_5c36dc78856c2a8220038302186f48893d18638b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_773039832141675877c185fc43c6ddc5928cb172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6492008c2722960104bf537888a25aafd3657b21">
+        <dex dex="C:\Users\MJ\AndroidStudioProjects\Adivinha2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5461bfac9c3791c7ae42ef0b81dafe459d29dec7.jar" />
+    </item>
+
+</items>
